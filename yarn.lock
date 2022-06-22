@@ -1723,7 +1723,7 @@
     "react-router-dom" "5.2.0"
     "sharp" "0.30.6"
 
-"@strapi/plugin-users-permissions@4.0.0":
+"@strapi/plugin-users-permissions@4.0.7":
   "integrity" "sha512-e+0gI/od9TDaYnAZl1QeNLvpuGPNLQnAiu6gzBRG3CBb+UlIDGeXfaJhO0bDdEa7q3ZRNpzGiUfn08pMNPPnxg=="
   "resolved" "https://registry.npmjs.org/@strapi/plugin-users-permissions/-/plugin-users-permissions-4.0.0.tgz"
   "version" "4.0.0"
